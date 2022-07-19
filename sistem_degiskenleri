@@ -1,0 +1,13 @@
+#! /bin/bash
+
+echo $BASH
+echo $BASH_VERSION
+echo $HOME
+echo $PWD
+
+ad=Baris #bu bir stringtir
+
+echo $ad
+
+sayi=10 # Bu bir integerdir
+echo $sayi
